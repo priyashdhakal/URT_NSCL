@@ -1,3 +1,7 @@
 #data file
 *.csv
 *.rds
+*.pth
+data/
+media/
+
